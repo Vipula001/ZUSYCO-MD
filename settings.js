@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94741366596",
+  SUDO_NUMBERS : "94741366596,94719574492",
+  OWNER_NAME: "『 M R • V I P U L A』",
+  BOT_NAME : "N I K O",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -27,16 +27,16 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ V I P U L A ᴍᴅ ʙᴏᴛ',
+  STICKER_PACK : '[ N I K O ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -50,13 +50,13 @@ module.exports = {
   READ : {
      ALL_MESSAGES : true,
      ONLY_COMMANDS : false,
-     STATUS : false,
+     STATUS : true,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
-  OWNER_REACT : '🤵‍♂️',
-  AUTO_BGM : false,
+  OWNER_REACT : '✋🏻🙂‍↕',
+  AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
@@ -78,6 +78,6 @@ module.exports = {
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
