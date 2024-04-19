@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94741366596",
+  OWNER_NUMBER: "94741366052",
   SUDO_NUMBERS : "94741366596,94719574492",
   OWNER_NAME: "『 M R • V I P U L A』",
-  BOT_NAME : "N I K O",
+  BOT_NAME : "M R • N I K O",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://pin.it/mDtj86lj8',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -32,15 +32,15 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_TYPE : "public/private",
+  WORK_MODE : "groups/personal",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ V I P U L A ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ N I K O ]',
+  STICKER_PACK : '[ M R • N I K O ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
+  ANTI_LINK : true,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
